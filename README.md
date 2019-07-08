@@ -1,6 +1,6 @@
 <h1>CONCEPT CONCEPT CONCEPT</h1>
 
-<p>MunitieLexicon</p>
+<p><h2>MunitieLexicon</h2></p>
 <p>With MunitieLexicon you have access to various ammunition-related abbreviations and terminologies that are used in various regulations and documents.</p>
 
 <p><h2>Assignment</h2></p>
