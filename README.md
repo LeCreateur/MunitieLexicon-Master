@@ -1,4 +1,4 @@
-<h1>CONCEPTCONCEPTCONCEPTCONCEPT</h1>
+<h1>CONCEPT CONCEPT CONCEPT</h1>
 
 <p>MunitieLexicon</p>
 <p>With MunitieLexicon you have access to various ammunition-related abbreviations and terminologies that are used in various regulations and documents.</p>
@@ -36,4 +36,4 @@ https://developer.android.com/google/play/licensing/adding-licensing#manifest-pe
 <p>Database: DB Browser SQLite</p>
 <p>Design: Gravit design</p>
 
-<h1>CONCEPTCONCEPTCONCEPT</h1>
+<h1>CONCEPT CONCEPT CONCEPT</h1>
