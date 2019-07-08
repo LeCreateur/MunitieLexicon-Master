@@ -9,7 +9,7 @@
 Features
 --------
 •	500+ abbreviations and terminologies
-•	offline database
+<p>•	offline database</p>
 
 Installation
 ------------
