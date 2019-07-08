@@ -1,7 +1,7 @@
 CONCEPT
 
-MunitieLexicon 
-With MunitieLexicon you have access to various ammunition-related abbreviations and terminologies that are used in various regulations and documents.
+<p>MunitieLexicon</p>
+<p>With MunitieLexicon you have access to various ammunition-related abbreviations and terminologies that are used in various regulations and documents.</p>
 
 Assignment
 Internship assignment applicatie-en mediaontwikkelaar MBO4
@@ -18,8 +18,8 @@ Installation
 Contribute
 ----------
 •	Source Code: github.com/LeCreateur/MunitieLexicon-Master
-•	Website: www.munitielexicon.nl
-•	Facebook: www.facebook.com/MunitieLexicon
+<p>•	Website: www.munitielexicon.nl</p>
+<p>•	Facebook: www.facebook.com/MunitieLexicon</p>
 
 Support
 -------
