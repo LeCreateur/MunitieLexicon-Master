@@ -1,9 +1,9 @@
-<h1>CONCEPT</h1>
+<h1>CONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPT</h1>
 
 <p>MunitieLexicon</p>
 <p>With MunitieLexicon you have access to various ammunition-related abbreviations and terminologies that are used in various regulations and documents.</p>
 
-<p><h1>Assignment</h1></p>
+<p><h2>Assignment</h2></p>
 <p>Internship assignment applicatie-en mediaontwikkelaar MBO4</P>
 
 Features
@@ -36,4 +36,4 @@ https://developer.android.com/google/play/licensing/adding-licensing#manifest-pe
 <p>Database: DB Browser SQLite</p>
 <p>Design: Gravit design</p>
 
-<h1>CONCEPT</h1>
+<h1>CONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPTCONCEPT</h1>
